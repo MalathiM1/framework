@@ -19,8 +19,12 @@ public class ContactTest {
 	@Test
 	public void deletecontactTest()
 	{
+		
+		
+		
 		System.out.println("contact deleted");
 	}
 	
 
 }
+
